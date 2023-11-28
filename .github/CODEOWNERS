@@ -3,7 +3,7 @@
 /python-sdk/tutorials/automl-with-azureml @rtanase @cesardelatorre @anupsms @lauralj103 @jeff-shepherd @raduk @swatig007 @martinezgjuan @MercyPrasanna @PhaniShekhar @yoyolin @sjinthehouse @vadthyavath @mispa-ms
 
 #### files referenced in docs #############################################################################################
-/cli/assets/component/train.yml @sdgilley @msakande @Blackmist @ssalgadodev @lgayhardt @fbsolo-ms1 
+/cli/assets/component/train.yml @ML 
 /cli/assets/data/cloud-file-https.yml @sdgilley @msakande @Blackmist @ssalgadodev @lgayhardt @fbsolo-ms1 
 /cli/assets/data/cloud-file-wasbs.yml @sdgilley @msakande @Blackmist @ssalgadodev @lgayhardt @fbsolo-ms1 
 /cli/assets/data/cloud-file.yml @sdgilley @msakande @Blackmist @ssalgadodev @lgayhardt @fbsolo-ms1 
