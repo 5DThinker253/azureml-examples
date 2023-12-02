@@ -23,7 +23,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: check out repo
+    - name: 5DAi
       uses: actions/checkout@v2
     - name: azure login
       uses: azure/login@v1
